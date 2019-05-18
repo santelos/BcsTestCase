@@ -1,0 +1,6 @@
+logging:
+  file: logs/application.log
+
+quote:
+  host: "https://api.iextrading.com/1.0"
+  timeout: 10000
